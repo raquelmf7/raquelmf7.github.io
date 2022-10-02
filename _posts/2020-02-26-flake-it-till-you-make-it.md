@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ranking de mejores perretes
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Mejores perretes de la semana
+subtitle: Fotos de perretes que te harán reir
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/swimming-doggo.gif
 share-img: /assets/img/path.jpg
