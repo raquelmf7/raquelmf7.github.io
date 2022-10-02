@@ -6,7 +6,7 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Inigo Montoya. I have the following qualities:
 
-https://media.tenor.com/6oJtiF2Pc68AAAAC/swimming-doggo.gif
+<img src="{{ 'assets/img/swimming-doggo.gif' | relative_url }}"/>
 
 - I rock a great mustache
 - I'm extremely loyal to my family
