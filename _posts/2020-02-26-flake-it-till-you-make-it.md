@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-##**1. The Destroyer**
+## **1. The Destroyer**
 
 <img src="{{ 'assets/img/destroyer.jpg' | relative_url }}" alt="destroyer" />
 
