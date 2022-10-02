@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flake it till you make it
+title: Ranking de mejores perretes
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/swimming-doggo.gif
